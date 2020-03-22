@@ -1,4 +1,4 @@
-# #Setting up Google Colab
+## Setting up Google Colab
 
 1. Prerequisite is a Google Drive account. Get it here: https://www.google.com/drive/
 2. Download the FastAI course-v4 repository as a .zip to your local filesystem: https://github.com/fastai/course-v4.git
