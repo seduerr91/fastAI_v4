@@ -1,4 +1,6 @@
-# Quick guide on how to train FastAI2 on Google Colab environment without extensive registration processes for free.
+# Setting up a Google Colab Training Environment 
+
+How to train FastAI2 on Google Colab environment without extensive registration processes for free.
 
 1. Go to https://colab.research.google.com/
 2. Click “File” > “Open notebook…” > Select “GitHub” tab
