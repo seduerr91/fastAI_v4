@@ -1,19 +1,12 @@
-# Setting up a Google Colab Training Environment 
+Setting up Google Colab
 
-How to train FastAI2 on Google Colab environment without extensive registration processes for free.
+1. Prerequisite is a Google Drive account. Get it here: https://www.google.com/drive/
+2. Download the FastAI course-v4 repository as a .zip to your local filesystem: https://github.com/fastai/course-v4.git
+3. Upload “course-v4-master” folder to your drive (this instruction goes with the root-folder of GoogleDrive.
+4. Navigate into folder “nbs” and open file “01_intro.ipynb” with connected app “Google Colab”.
+5. Copy the following in the first cell available here: https://raw.githubusercontent.com/seduerr91/fastAI_v4/master/fastAI2_colab_setup 
+6. Authorize Google Colab to connect to your drive by following the screen instructions 
+7. Start with training
 
-1. Go to https://colab.research.google.com/
-2. Click “File” > “Open notebook…” > Select “GitHub” tab
-3. Enter the following GitHub URL: ”https://github.com/fastai/course-v4.git”, press “Enter”.
-4. Choose Repository: “fastai/course-v4”
-5. Select the notebook you are interested in, for example “nb/01_intro.ipynb”.
-6. Click “Runtime” > “Change runtime type” > Select “GPU” as “Hardware accelerator”; Click “Save”.
-7. Copy the contents from “https://raw.githubusercontent.com/seduerr91/fastAI_v4/master/fastAI2_colab_setup” into first cell of the notebook.
-8. Now you are prompted to log-in to your Google account, if you are not.
-9. Ignore the warning, that the notebook was not developed by Google. 
-10. Run the training, and explore FastAIv2 on Google Colab.
-11. You may copy the environment to run “fastai2” (https://raw.githubusercontent.com/seduerr91/fastAI_v4/master/fastAI2_colab_setup) for every notebook in the git repository.  
-
-*** Tested on Google Chrome on MacBook Air ***
-
-Thank you FastAI team!
+Please mind: You may need to input the first cell into all the notebooks to have access to your files.
+ *** Tested on MacBook Air in Chrome Browser on March 22, 2020. ***
