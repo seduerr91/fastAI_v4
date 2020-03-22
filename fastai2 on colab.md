@@ -6,7 +6,10 @@ Setting up Google Colab
 4. In your GoogleDrive, navigate into folder "course-v4-master/nbs" and open file “01_intro.ipynb” with connected app “Google Colab”.
 5. Copy the following in the first cell available here: https://raw.githubusercontent.com/seduerr91/fastAI_v4/master/fastAI2_colab_setup 
 6. Authorize Google Colab to connect to your drive by following the screen instructions 
-7. Start with training
+7. Click “Runtime” > “Change runtime type” > Select “GPU” as “Hardware accelerator”; Click “Save”.
+8. Start with training and enjoy the new FastAI v4!
 
 Please mind: You may need to input the first cell into all the notebooks to have access to your files.
  *** Tested on MacBook Air in Chrome Browser on March 22, 2020. ***
+
+Thank you FastAI Team! You guys are awesome!
