@@ -7,7 +7,7 @@
 5. Copy the linked code in the first cell of the notebook (erase the #hide contents): https://raw.githubusercontent.com/seduerr91/fastAI_v4/master/fastAI2_colab_setup 
 6. Authorize Google Colab to connect to your drive by following the screen instructions 
 7. Click “Runtime” > “Change runtime type” > Select “GPU” as “Hardware accelerator”; Click “Save”.
-8. Start with training and enjoy the new FastAI v4!
+8. Start with training and enjoy the new FastAI v4! (If this is not working right away, then please try "Runtime", and "Restart runtime" which should resolve issues.)
 
 Please mind: You may need to input the first cell into all the notebooks to have access to your files.
  *** Tested on MacBook Air in Chrome Browser on March 22, 2020. ***
